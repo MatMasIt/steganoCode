@@ -42,4 +42,4 @@ if `showFound` is enabled, the output contains all the decoded instances
 
 
 ### example
-[![asciicast](https://asciinema.org/a/eNpUFJp7b3q68Bwx0x1Ak0E0j.svg)](https://asciinema.org/a/eNpUFJp7b3q68Bwx0x1Ak0E0j)
+[![asciicast](https://asciinema.org/a/430713.svg)](https://asciinema.org/a/430713)
