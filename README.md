@@ -23,7 +23,7 @@ optional arguments:
 This tools encodes secret messages in a comment, which is appended at the start of the output
 
 
-## Encoding:
+## Encoding
 
 The message is first commuted from unicode to binary and then to a sequence of these two invisible unicode characters:
 * `U+200F RIGHT-TO-LEFT MARK` for binary digit `1`
