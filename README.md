@@ -1,4 +1,7 @@
 # steganoCode
+
+![GitHub](https://img.shields.io/github/license/MatMasIt/steganoCode)
+
 Steganography in source code
 
 ```
